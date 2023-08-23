@@ -1,0 +1,23 @@
+環境變數
+
+1.開發中的專案
+
+2.開發中的環境 (API路徑 公司內部)
+
+3.產品部屬環境 (API路徑 公開網址)
+
+環境變數
+1. 通用環境變數  .env 可以將API的網址寫在這裡 
+
+2.開發中環境變數 .env.development 在開發中的環境變數都寫在這裡
+
+3.完成布署的環境變數  .env.production 正式的環境變數都寫在這裡
+
+https://courses.hexschool.com/courses/vue-202121/lectures/44165389 明天上課
+
+vite 指令
+
+npm install  --安裝
+npm run dev  --開啟服務器
+npm run build --建構生產版本
+
